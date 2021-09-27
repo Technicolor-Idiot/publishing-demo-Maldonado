@@ -1,1 +1,1 @@
-# publishing-demo-Maldonado
+# publishing-demo

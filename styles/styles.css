@@ -1,6 +1,6 @@
 
 body {
-  font-style: sans-serif; monospace;
+  font-style: sans-serif, monospace;
 }
 
 h1 {
@@ -21,12 +21,20 @@ a {
   text-decoration: none;
 }
 
+figcaption {
+  color: grey;
+}
+
 p {
   font-size: 16px;
 }
 
 li {
   font-size: 1.5em;
+}
+h6 {
+  color: grey;
+  font-style: georgia, sans-serif;
 }
 .center {
   display: block;
